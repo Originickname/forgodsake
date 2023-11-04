@@ -1,5 +1,5 @@
 <cfg xmlns="http://alternativaplatform.com/core/config.xsd">
-  <server address="rocket2launcher.ddns.net">
+  <server address="5.140.58.42">
     <port>1337</port>
   </server>
   <status>available</status>
